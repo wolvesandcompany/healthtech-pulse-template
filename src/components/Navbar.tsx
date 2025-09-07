@@ -36,8 +36,8 @@ const Navbar = () => {
             <div className="w-10 h-10 bg-gradient-primary rounded-xl flex items-center justify-center">
               <Activity className="w-6 h-6 text-white" />
             </div>
-            <span className="text-2xl font-heading font-bold text-gradient">
-              HealthTech
+            <span className="text-2xl font-heading font-bold text-accent">
+              healthtech
             </span>
           </div>
 
